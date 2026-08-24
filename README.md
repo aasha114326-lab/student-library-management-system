@@ -54,4 +54,5 @@ Bebo Rajbahak, Aasha, Prashna, Reshma — CSE 220, Summer 2026, IAU
 ## Report
 Full project report: `docs/Final-Project-Report.docx`
 ## Testing
-Test cases are included in the testing folder.
+
+The project includes test cases for checking the main features of the Student Library Management System. The test case files are available in the `testing` folder.
